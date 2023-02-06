@@ -32,4 +32,4 @@ objectives:
 Feb 13
 
 ### How do I turn it in?
-Email me your essay.
+Upload your report to Blackboard.
