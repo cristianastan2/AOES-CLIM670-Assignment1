@@ -29,7 +29,7 @@ objectives:
 * 1” margins
 
 ### When is it due?
-Feb 17
+February 17
 
 ### How do I turn it in?
 Upload your report to Canvas.
